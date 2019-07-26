@@ -1,5 +1,5 @@
 ./generate/train
 ./generate/test
-./yymnist_test.txt
+yymnist_test.txt
 .git/
 .idea/
